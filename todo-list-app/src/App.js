@@ -1,7 +1,7 @@
 //Ebad Ur Rhahman Mohammed
 import React from 'react';
 import './App.css';
-import ToDoList from './ToDoList'; // Make sure this path matches your file structure
+import ToDoList from './ToDoList';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
