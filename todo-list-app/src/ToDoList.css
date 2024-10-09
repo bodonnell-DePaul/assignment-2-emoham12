@@ -1,0 +1,54 @@
+/*Ebad Ur Rhahman Mohammed*/
+/* Centering and layout adjustments */
+.container {
+  margin-top: 40px;
+}
+
+/* Form styling */
+.todo-form {
+  background-color: #28f387; /* Match the green background */
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.add-button {
+  display: block;
+  width: 100%;
+  background-color: #007bff; /* Blue button */
+  color: white;
+}
+
+/* Header styling */
+.header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* ListGroup item styling */
+.list-group-item {
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+/* Make descriptions editable */
+.editable {
+  border: 1px dashed #ccc;
+  padding: 5px;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.todo-description {
+  font-size: 16px; /* Adjust this value as needed */
+  line-height: 1.5;
+}
+
+
+/* Tab pane adjustments */
+/* .tab-content {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+} */
